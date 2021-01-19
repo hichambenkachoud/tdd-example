@@ -2,9 +2,8 @@
 ==============
 
 Rejoignez-moi sur :
-* [LinkedIn]()
-* [Facebook]()
-* [Meduim]()
+* [LinkedIn](https://www.linkedin.com/in/hicham-benkachoud/)
+* [Meduim](https://hicham-benkachoud.medium.com/)
 
 # Subject
 I explained what I learned about Test Driven Development, and i shared with u the example that you 
